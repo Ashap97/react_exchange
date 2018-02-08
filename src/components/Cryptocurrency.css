@@ -23,3 +23,11 @@
     background-color: #ececec;
     border-bottom: solid 4px #bebebe;
 }
+.ripple {
+    background-color: skyblue;
+    border-bottom: solid 4px darkblue;
+}
+.monero {
+    background-color: orangered;
+    border-bottom: solid 4px dimgrey;
+}
